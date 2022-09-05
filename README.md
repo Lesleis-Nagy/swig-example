@@ -1,5 +1,5 @@
-Python/swig example
-===================
+Python/C++ Swig Example
+=======================
 
 This example shows how to wrap a simple c++ library for use in Python using 
 swig. Things to note:
@@ -21,4 +21,6 @@ be set in the Makefile by changing the following directories
   `libpython???`).
 * `NUMPY_INCLUDE_DIR` - the include directory that contains headers required
   by numpy (*i.e.* `numpy/arrayobject.h`).
+
+You should set `CC` to the correct compiler.
 

@@ -40,4 +40,4 @@ clean:
 
 
 info:
-	@echo "Use '/opt/homebrew/Cellar/python@3.10/3.10.6_2/bin/python3' to run this lv."
+	@echo "Use '/opt/homebrew/Cellar/python@3.10/3.10.6_2/bin/python3' to run this."
