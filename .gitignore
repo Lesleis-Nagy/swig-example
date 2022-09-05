@@ -1,0 +1,9 @@
+_lv.so
+lv.o
+lv.py
+lv_wrap.cxx
+lv_wrap.o
+output1.pdf
+output2.pdf
+
+__pycache__
